@@ -1,0 +1,30 @@
+﻿@model Projeto.Presentation.Models.Departamento.DepartamentoCadastroModel
+
+@{
+    ViewData["Title"] = "Cadastro";
+    Layout = "~/Views/Templates/Layout.cshtml";
+}
+
+<h4>Formulário de Cadastro de Departamentos</h4>
+<hr />
+
+@using (Html.BeginForm())
+{
+    <div class="text-danger">
+        @Html.ValidationSummary()
+    </div>
+
+    <label>Nome do Departamento:</label>
+    @Html.TextBoxFor(model => model.Nome, new { @class = "form-control col-md-4" })
+    <br />
+
+    <label>Descrição do Departamento:</label>
+    @Html.TextBoxFor(model => model.Descricao, new { @class = "form-control col-md-4" })
+    <br />
+
+    <input type="submit" value="Cadastrar Departamento" class="btn btn-success" />
+    <br />
+    <br />
+
+    <strong>@TempData["Mensagem"]</strong>
+}

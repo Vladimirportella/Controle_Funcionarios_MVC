@@ -1,0 +1,50 @@
+﻿@model List<Projeto.Data.Entities.Cargo>
+
+@{
+    ViewData["Title"] = "Consulta";
+    Layout = "~/Views/Templates/Layout.cshtml";
+}
+
+<h4>Listagem de Cargos Cadastrados</h4>
+<hr />
+
+<div>
+    <strong>@TempData["Mensagem"]</strong>
+</div>
+
+<table class="table table-bordered table-hover table-striped">
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Nome</th>
+            <th>Descrição</th>
+            <th>Nº de Funcionários</th>
+            <th>Operações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.IdCargo</td>
+                <td>@item.Nome</td>
+                <td>@item.Descricao</td>
+                <td>@item.Funcionarios.Count</td>
+                <td>
+                    <a href="/Cargo/Edicao?id=@item.IdCargo" class="btn btn-primary btn-sm">Atualizar</a>
+                    <a href="/Cargo/Exclusao?id=@item.IdCargo" 
+                       class="btn btn-danger btn-sm"
+                       onclick="return confirm('Deseja exluir esse cargo?');">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="5  ">
+                Quantidade de cargos: @Model.Count
+            </td>
+        </tr>
+    </tfoot>
+</table>
+

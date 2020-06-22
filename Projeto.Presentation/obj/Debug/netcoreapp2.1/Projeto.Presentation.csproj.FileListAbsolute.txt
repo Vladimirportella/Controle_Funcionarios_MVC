@@ -1,0 +1,74 @@
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cache
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.deps.json
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.genruntimeconfig.cache
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.dll
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.input.cache
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.output.cache
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorCoreGenerate.cache
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Templates\Layout.cshtml.g.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Cargo\Cadastro.cshtml.g.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Cargo\Consulta.cshtml.g.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Departamento\Cadastro.cshtml.g.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Departamento\Consulta.cshtml.g.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Cadastro.cshtml.g.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Consulta.cshtml.g.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Cargo\Edicao.cshtml.g.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Departamento\Edicao.cshtml.g.cs
+C:\Users\windows\Desktop\002\Coti\ListaExercicioMVC\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Edicao.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.deps.json
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.json
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.runtimeconfig.dev.json
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.dll
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cache
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorAssemblyInfo.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.AssemblyInfo.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.input.cache
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.TagHelpers.output.cache
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorCoreGenerate.cache
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Cargo\Cadastro.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Cargo\Consulta.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Cargo\Edicao.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Departamento\Cadastro.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Departamento\Consulta.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Departamento\Edicao.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Cadastro.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Consulta.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Edicao.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Razor\Views\Templates\Layout.cshtml.g.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.RazorTargetAssemblyInfo.cs
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.Views.pdb
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.csproj.CopyComplete
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.dll
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.pdb
+C:\Users\windows\Desktop\Projetos GitHub\ControleDeFuncionarios\Projeto.Presentation\obj\Debug\netcoreapp2.1\Projeto.Presentation.genruntimeconfig.cache

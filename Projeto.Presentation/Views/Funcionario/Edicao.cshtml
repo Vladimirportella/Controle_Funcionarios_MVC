@@ -1,0 +1,53 @@
+﻿@model Projeto.Presentation.Models.Funcionario.FuncionarioEdicaoModel
+@{
+    ViewData["Title"] = "Cadastro";
+    Layout = "~/Views/Templates/Layout.cshtml";
+}
+
+<h4>Formulário de Cadastro de Funcionários</h4>
+<hr />
+
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(model=>model.IdFuncionario)
+
+    <div class="text-danger">
+        @Html.ValidationSummary()
+    </div>
+
+    <label>Nome do Funcionario:</label>
+    @Html.TextBoxFor(model => model.Nome, new { @class = "form-control col-md-4",
+                                            @placeholder = "Informe o nome aqui" })
+    <br />
+
+    <label>Salário:</label>
+    @Html.TextBoxFor(model => model.Salario, new { @class = "form-control col-md-4", 
+                                            @placeholder = "Informe o salário aqui" })
+    <br />
+
+    <label>Data de Admissão:</label>
+    @Html.TextBoxFor(model => model.DataAdmissao, Model.DataAdmissao.ToString("yyyy-MM-dd"),
+                        new { @class = "form-control col-md-4", @type = "date" })
+    <br />
+
+    <label>Cargo:</label>
+    @Html.DropDownListFor(model => model.IdCargo, Model.ListagemDeCargos,
+                           "Selecione uma opção", new { @class = "form-control col-md-4" })
+    <br />
+
+    <label>Departamento:</label>
+    @Html.DropDownListFor(model => model.IdDepartamento, Model.ListagemDeDepartamentos,
+                           "Selecione uma opção", new { @class = "form-control col-md-4" })
+    <br />
+
+    <input type="submit" value="Atualizar Funcionário" class="btn btn-success" />
+    <br />
+    <br />
+
+    <strong>@TempData["Mensagem"]</strong>
+}
+
+
+
+
